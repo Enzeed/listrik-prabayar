@@ -13,7 +13,7 @@ Aplikasi ini merupakan sistem berbasis web API (Flask) dan interface Streamlit u
 
 🔧 Instalasi & Setup
 1. Clone Repository
-git clone https://github.com/namauser/aplikasi-listrik.git
+git clone [https://github.com/namauser/aplikasi-listrik.git](https://github.com/Enzeed/listrik-prabayar.git)
 cd aplikasi-listrik
 
 2. Buat Virtual Environment (Opsional tapi Disarankan)
